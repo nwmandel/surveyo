@@ -1,4 +1,4 @@
-# node-fullstack
+# Surveyo
 
 ### Email survey webapp
 
