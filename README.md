@@ -17,6 +17,18 @@ Node (>11.6.0) and npm (>6.5.0).
 ### Local Installation
 
 MacOS, Windows, Linux:
+
+Setup the front end before the backend, since the backend start script assumes the front end has been installed.
+
+For the front end:
+navigate to the `client/` directory
+```
+npm install
+npm run dev
+```
+
+For the backend:
+navigate to the root of the repo
 ```
 npm install
 npm run dev
